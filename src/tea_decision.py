@@ -2,6 +2,7 @@ from owlready2 import *
 import werkzeug.serving
 from create_onto import create_tea_ontology
 
+# create the folder data if not already present
 file = "data/tea2.owl"
 create_tea_ontology(file)
 onto = get_ontology(file).load()  # Change the path of the ontology
