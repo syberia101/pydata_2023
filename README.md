@@ -6,7 +6,7 @@ Code and data for the pydata talk of the 15/02/2023 in Lausanne (https://www.mee
 To run this code, you need to have poetry installed
 https://python-poetry.org/docs/#installation
 
-You also need to have the ontology DINDO downloaded 
+You also need to have the ontology DINTO downloaded 
 https://github.com/labda/DINTO/tree/master/DINTO1.2
 
 
